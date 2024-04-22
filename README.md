@@ -166,6 +166,25 @@ MAGNITUDE COMPARATOR
 ![320406840-cbc09a3b-15f2-4a0f-9a5d-eb11c1e57a91](https://github.com/Vishnu782/VLSI-LAB-EXP-2/assets/102226356/53715bf5-7042-4d3e-b805-aa1e52a0ebb9)
 
 
+# RTL Design
+
+Multiplexer
+<img width="761" alt="324391413-85c03dbc-f941-4c48-9ddf-49f4ab5342c4" src="https://github.com/Vishnu782/VLSI-LAB-EXP-2/assets/102226356/ea10ea35-dcee-4f3d-ad41-7fc2753def91">
+
+Magnitude Comparator
+<img width="761" alt="324391559-581f136c-8f0f-40aa-981b-b8299e269f9d" src="https://github.com/Vishnu782/VLSI-LAB-EXP-2/assets/102226356/6c6b3bad-2cb4-4455-a417-c99eeda78fd4">
+
+Demultiplier
+
+<img width="767" alt="324391625-8e681a69-d96e-489a-bea1-b9e273d43b94" src="https://github.com/Vishnu782/VLSI-LAB-EXP-2/assets/102226356/c97d49b5-7f9c-401e-9579-93e20d0a4588">
+
+8 to 3 Encoder
+<img width="764" alt="324391719-08f3ff7c-b9e5-469b-8bb8-53c980cd1ca0" src="https://github.com/Vishnu782/VLSI-LAB-EXP-2/assets/102226356/4af80f0a-2cff-48eb-afdb-e9c9bb5454a2">
+
+3 to 8 Decoder
+<img width="766" alt="324391783-d3549f3d-02f0-47f0-ad57-e5022d165e3b" src="https://github.com/Vishnu782/VLSI-LAB-EXP-2/assets/102226356/3a9455f3-09b3-4de7-8cec-4cb9c3f4a7f2">
+
+
 # RESULT
 simulation and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Xilinx ISE is verified.
 
